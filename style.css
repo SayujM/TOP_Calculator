@@ -6,6 +6,7 @@
 }
 
 body{
+    background-image: url('wallpaper_4.jpg');
     display: flex;
     justify-content: center;
     align-items: center;
